@@ -1,0 +1,32 @@
+h1{
+    font-family: dancing script;
+    color: brown;
+    font-size: 50px;
+  }
+  
+  #img-caption{
+    width: 700px;
+    font-family: rajdhani;
+  }
+  
+  #image{
+    max-width: 30%;
+    height: auto;
+    display: block;
+  }
+  
+  h2 {
+    font-family: rajdhani;
+    font-size: 40px;
+  }
+  
+  p{
+    font-family: rajdhani;
+    font-size: 20px;
+    width: 550px;
+  }
+  
+  a {
+    font-family: rajdhani;
+    font-size: 20px;
+  }
